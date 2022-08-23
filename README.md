@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Otoo
+- 👋 Hi, I’m Parable
 - 💼 I am the founder of CodeBleach - IT Experts
 - 🖥️🌐 I am a Systems and Network Administrator 
 - 👀 I’m also interested in programming
